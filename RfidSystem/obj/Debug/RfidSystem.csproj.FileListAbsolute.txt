@@ -1,0 +1,94 @@
+D:\Willian\FACULDADE\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.exe.config
+D:\Willian\FACULDADE\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.exe
+D:\Willian\FACULDADE\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.pdb
+D:\Willian\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csprojAssemblyReference.cache
+D:\Willian\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Loading.resources
+D:\Willian\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Properties.Resources.resources
+D:\Willian\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csproj.GenerateResource.cache
+D:\Willian\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csproj.CoreCompileInputs.cache
+D:\Willian\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.exe
+D:\Willian\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.pdb
+D:\Willian\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Login.resources
+D:\Willian\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.PrincipalAdmin.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\9º PERIODO\TCC\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.exe.config
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\9º PERIODO\TCC\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.exe
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\9º PERIODO\TCC\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.pdb
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\9º PERIODO\TCC\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csprojAssemblyReference.cache
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\9º PERIODO\TCC\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Loading.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\9º PERIODO\TCC\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Login.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\9º PERIODO\TCC\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.PrincipalAdmin.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\9º PERIODO\TCC\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Properties.Resources.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\9º PERIODO\TCC\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csproj.GenerateResource.cache
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\9º PERIODO\TCC\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\9º PERIODO\TCC\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.exe
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\9º PERIODO\TCC\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.pdb
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Loading.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Login.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.PrincipalAdmin.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Properties.Resources.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csproj.GenerateResource.cache
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA COSTA\Documents\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csprojAssemblyReference.cache
+C:\Users\FAMILIA COSTA\Documents\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Loading.resources
+C:\Users\FAMILIA COSTA\Documents\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Login.resources
+C:\Users\FAMILIA COSTA\Documents\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.PrincipalAdmin.resources
+C:\Users\FAMILIA COSTA\Documents\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Properties.Resources.resources
+C:\Users\FAMILIA COSTA\Documents\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csproj.GenerateResource.cache
+C:\Users\FAMILIA COSTA\Documents\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.PrincipalOperador.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.exe
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.pdb
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.exe.config
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.exe
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.pdb
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.CadastroFuncionario.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.CadastroUsuario.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csprojAssemblyReference.cache
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Loading.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Login.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.PrincipalAdmin.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Properties.Resources.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csproj.GenerateResource.cache
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.exe
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.pdb
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.exe.config
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.exe
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.pdb
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.CadastrosMenu.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.CadastroFuncionarios.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csprojAssemblyReference.cache
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.exe.config
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.exe
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.pdb
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.CadastroFuncionarios.resources
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.CadastrosMenu.resources
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Loading.resources
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Login.resources
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.PrincipalAdmin.resources
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Properties.Resources.resources
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csproj.GenerateResource.cache
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csproj.CoreCompileInputs.cache
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.exe
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.pdb
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.CadastroLocalidade.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.CadastroLocalidade.resources
+C:\Users\FAMILIA COSTA\Desktop\FACULDADE\Rfid_System\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.CadastroEquipamentos.resources
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.exe.config
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.exe
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\bin\Debug\RfidSystem.pdb
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.CadastroEquipamentos.resources
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.CadastroFuncionarios.resources
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.CadastroLocalidade.resources
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.CadastrosMenu.resources
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.Configuracoes.resources
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Loading.resources
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Login.resources
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.PrincipalAdmin.resources
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Properties.Resources.resources
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csproj.GenerateResource.cache
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.csproj.CoreCompileInputs.cache
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.exe
+D:\Willian\FACULDADE\PROJETO_TCC02_BACKUP\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.pdb
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.CadastroEquipamentos.resources
+D:\Willian\FACULDADE\PROJETO_TCC02\Rfid_System\RfidSystem\RfidSystem\obj\Debug\RfidSystem.Telas.Configuracoes.resources
